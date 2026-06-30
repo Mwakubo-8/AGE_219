@@ -1,0 +1,9 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,WCA Round,Census Year,Unit,Value,Flag,Flag Description,Note
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","270033","Holdings with land size 2-<5","2000","2002","ha","540430","I","Value imputed by a receiving agency","<5 ha."
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","270036","Holdings with land size 5-<10","2000","2002","ha","1446884","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","270037","Holdings with land size 10-<20","2000","2002","ha","4214923","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","270038","Holdings with land size 20-<50","2000","2002","ha","14879051","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","270039","Holdings with land size 50-<100","2000","2002","ha","24204526","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","2700300","Holdings with land size 100-<200","2000","2002","ha","34303773","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","2700301","Holdings with land size 200-<500","2000","2002","ha","62327929","I","Value imputed by a receiving agency",""
+"WCAD","Structural data from agricultural censuses","840","United States of America","50260","Area","2700302","Holdings with land size 500-<1000","2000","2002","ha","237794635","I","Value imputed by a receiving agency",""
